@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front End<br>Estou a procura de uma vaga Júnior para entrar na área
+Sou estudante de Front End<br>Atualmente trabalhando como Analista de Sistemas júnior. 
 
 
 ## 🌐 Socials:
